@@ -1,0 +1,14 @@
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.AssemblyInfoInputs.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.AssemblyInfo.cs
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.csproj.CoreCompileInputs.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\bin\Debug\net8.0\tde04.exe
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\bin\Debug\net8.0\tde04.deps.json
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\bin\Debug\net8.0\tde04.runtimeconfig.json
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\bin\Debug\net8.0\tde04.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\bin\Debug\net8.0\tde04.pdb
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\refint\tde04.dll
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.pdb
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\tde04.genruntimeconfig.cache
+C:\Users\power\OneDrive\Área de Trabalho\ADS\LABORATÓRIO DE PROGRAMAÇÃO\tde04\obj\Debug\net8.0\ref\tde04.dll
